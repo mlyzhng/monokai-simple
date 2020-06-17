@@ -2,8 +2,14 @@
 
 All notable changes to the "monokai-simple" extension will be documented in this file.
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+## v1.0.2
 
-## [Unreleased]
+- Added colors for list focus background and git decorations
+
+## v1.0.1
+
+- Edited some text colors
+
+## v1.0.0
 
 - Initial release

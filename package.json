@@ -2,8 +2,8 @@
   "name": "monokai-simple",
   "displayName": "monokai-simple",
   "publisher": "mlyzhng",
-  "description": "edit of monokai charcoal with lower contrast",
-  "version": "1.0.1",
+  "description": "a lower contrast edit of monokai charcoal",
+  "version": "1.0.2",
   "engines": {
     "vscode": "^1.46.0"
   },
