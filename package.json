@@ -3,14 +3,14 @@
   "displayName": "monokai-simple",
   "publisher": "mlyzhng",
   "description": "edit of monokai charcoal with lower contrast",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "engines": {
     "vscode": "^1.46.0"
   },
   "icon": "screenshot.png",
   "repository": {
     "type": "git",
-    "url": "https://github.com/emilyzhang/monokai-simple.git"
+    "url": "https://github.com/mlyzhng/monokai-simple.git"
   },
   "categories": [
     "Themes"
