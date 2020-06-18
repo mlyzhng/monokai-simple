@@ -3,7 +3,7 @@
   "displayName": "monokai-simple",
   "publisher": "mlyzhng",
   "description": "a lower contrast edit of monokai charcoal",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "engines": {
     "vscode": "^1.46.0"
   },
